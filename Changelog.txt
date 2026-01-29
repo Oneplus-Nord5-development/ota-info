@@ -1,0 +1,5 @@
+Rom:
+No change
+
+Device:
+• Fix Logspams while using Fingerprint
