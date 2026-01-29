@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1769699307,
+      "filename": "YAAP-16-HOMEMADE-lexus-20260129.zip",
+      "payload": [
+        {
+          "offset": 4759,
+          "FILE_HASH": "fyULcJXq+YCemCg9SKt2Bfzilwblxvt6Rm+Pxwuivag=",
+          "FILE_SIZE": "3054942781",
+          "METADATA_HASH": "JWA294byEqJPclilKAqtYIP2sDsO3cSlx0m7sFdUBIM=",
+          "METADATA_SIZE": "179233"
+        }
+      ]
+    }
+  ]
+}
